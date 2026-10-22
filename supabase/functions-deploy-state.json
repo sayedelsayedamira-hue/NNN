@@ -1,0 +1,25 @@
+{
+  "projectId": "71907369",
+  "functions": {
+    "auth-change-password": {
+      "hasChanged": false,
+      "hash": "3ef3994616b0a9e82ebd572be3fe546d642c448985d745faca6f79fc09417cee"
+    },
+    "auth-login": {
+      "hasChanged": false,
+      "hash": "f4819ed33bebf62b9d8add08e1257ec46a6e029f61ecb27064536ed72e3e60be"
+    },
+    "auth-manage-users": {
+      "hasChanged": false,
+      "hash": "c56cfeaf7ffc5a511eef6d19852125dde9ff765df315422a54f941462978eef2"
+    },
+    "onepacs-proxy": {
+      "hasChanged": false,
+      "hash": "c99bc3b0ec679b3e1e7f9dead144ee9e0ce51c94da37211a1a9c267c1ed38996"
+    },
+    "send-push": {
+      "hasChanged": false,
+      "hash": "9af722dce78b6877c241cfec8918b4345e61cdadd80df0986a8f518c91a3e162"
+    }
+  }
+}
